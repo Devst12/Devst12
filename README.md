@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Dev
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Next js.
-- 💞️ I’m looking to collaborate on coders 
-
+Hello, my name is Dev. I am an enthusiastic and dedicated individual with a strong passion for software development and programming. I spend a significant amount of my time exploring new technologies and writing code to solve interesting problems. Currently, I am focusing my efforts on learning Next.js to expand my abilities in building modern, fast, and scalable web applications. I strongly believe that the best work is created through teamwork, which is why I am actively looking for opportunities to collaborate with other developers and coders. Whether it is an open source project or a new creative endeavor, I am always open to connecting and building something great together.
